@@ -1,0 +1,7 @@
+# deb https://deb.debian.org/debian bullseye main
+
+deb https://deb.debian.org/debian bullseye main
+deb-src https://deb.debian.org/debian bullseye main
+
+deb https://deb.debian.org/debian-security bullseye-security main
+deb-src https://deb.debian.org/debian-security bullseye-security main
